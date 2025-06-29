@@ -1,3 +1,50 @@
-theme: jekyll-theme-minimal
-title: Akash's homepage
-description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-cayman
+title: Akash Karthik - Coding Journey
+description: Computer Science student at San Jose State University sharing my journey in coding and Formula SAE/Spartan Racing
+author: Akash Karthik
+email: akashkarthik473@gmail.com
+url: "https://akashkarthik473.github.io"
+baseurl: ""
+
+permalink: /blog/:year/:month/:day/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Akash Karthik"
+      comments: true
+      share: true
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+
+social:
+  github: akashkarthik473
+  linkedin: akash-karthik473
+  email: akashkarthik473@gmail.com
+
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Formula SAE
+    url: /formula-sae/
