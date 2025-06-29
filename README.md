@@ -88,15 +88,14 @@ I aim to post regularly with:
 ## 🔗 Connect With Me
 
 - **Email**: [akashkarthik473@gmail.com](mailto:akashkarthik473@gmail.com)
-- **LinkedIn**: [Akash Karthik](https://linkedin.com/in/akash-karthik)
+- **LinkedIn**: [Akash Karthik](https://linkedin.com/in/akash-karthik473)
 - **GitHub**: [@akashkarthik473](https://github.com/akashkarthik473)
-- **Formula SAE**: [Spartan Racing Team](https://sjsu.edu/engineering/student-organizations/spartan-racing/)
+- **Formula SAE**: [Spartan Racing Team](https://www.sjsuformulasae.com/)
 
 ## 📖 Recent Posts
 
-- [Welcome to My Blog - Coding & Racing Journey Begins!](/blog/2024/01/15/welcome-to-my-blog.html)
-- [My First Month with Spartan Racing - Formula SAE Journey Begins!](/blog/2024/01/20/my-first-month-formula-sae.html)
-- [Building My First React App - Lessons Learned and Best Practices](/blog/2024/01/25/building-my-first-react-app.html)
+- [Welcome to My Blog - Coding & Racing Journey Begins!](/blog/2025/06/29/welcome-to-my-blog.html)
+- [My First Month with Spartan Racing - Formula SAE Journey Begins!](/blog/2025/06/29/my-first-month-formula-sae.html)
 
 ## 🎯 Current Focus
 
