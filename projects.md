@@ -4,61 +4,13 @@ title: Projects
 description: Showcase of my coding projects, technical work, and contributions
 ---
 
+<div class="projects-content">
+
 # Projects 💻
 
 Here's a collection of projects I've worked on, from academic assignments to personal passion projects. Each project has taught me something valuable about software development, problem-solving, and engineering.
 
 ## Featured Projects
-
-### 🎯 Task Management Dashboard
-**React, JavaScript, CSS Modules** | *January 2024*
-
-A comprehensive task management application built with React to help organize Formula SAE team responsibilities and personal projects.
-
-**Key Features:**
-- Add, edit, and delete tasks with categories
-- Priority levels and due date management
-- Filter and search functionality
-- Local storage for data persistence
-- Responsive design for mobile use
-
-**Technologies Used:**
-- React Hooks (useState, useReducer, useCallback)
-- CSS Modules for styling
-- React Testing Library for testing
-- Local Storage API
-
-**Learning Outcomes:**
-- Complex state management with useReducer
-- Component architecture and reusability
-- Performance optimization techniques
-- Testing React applications
-
-[View Project →](https://github.com/akashkarthik473/task-dashboard)
-
----
-
-### 🏎️ Formula SAE Telemetry System
-**Python, Arduino, Data Analysis** | *Ongoing*
-
-Developing a real-time data acquisition system for the Spartan Racing Formula SAE car to collect and analyze performance metrics.
-
-**Key Features:**
-- Real-time sensor data collection
-- Performance metrics dashboard
-- Data logging and analysis tools
-- GPS tracking and lap timing
-
-**Technologies Used:**
-- Python for data processing
-- Arduino for sensor integration
-- SQLite for data storage
-- Matplotlib for data visualization
-
-**Current Status:** In development - integrating sensors and building the dashboard interface.
-
----
-
 ### 🌐 Personal Portfolio Website
 **Jekyll, HTML, CSS, JavaScript** | *January 2024*
 
@@ -83,7 +35,7 @@ This website! Built with Jekyll to showcase my journey, projects, and experience
 ## Academic Projects
 
 ### 📊 Data Structures & Algorithms
-**Java, Python** | *Fall 2023*
+**Java, Python** | *Fall 2024*
 
 Implementation of fundamental data structures and algorithms with performance analysis.
 
@@ -101,29 +53,10 @@ Implementation of fundamental data structures and algorithms with performance an
 
 ---
 
-### 🗄️ Database Management System
-**SQL, Python, Flask** | *Spring 2023*
-
-A web-based database management system for a fictional car dealership.
-
-**Key Features:**
-- Customer and inventory management
-- Sales tracking and reporting
-- User authentication and authorization
-- RESTful API design
-
-**Technologies Used:**
-- PostgreSQL database
-- Flask web framework
-- SQLAlchemy ORM
-- Bootstrap for UI
-
----
-
 ## Formula SAE Contributions
 
 ### 📈 Data Analysis Tools
-**Python, Pandas, Matplotlib** | *Ongoing*
+**MoTeC i2PRO, Busmaster** | *Ongoing*
 
 Developing tools to analyze Formula SAE competition data and optimize car performance.
 
@@ -134,7 +67,7 @@ Developing tools to analyze Formula SAE competition data and optimize car perfor
 - Predictive modeling for race strategy
 
 ### 🔧 Software Integration
-**C++, Arduino, Python** | *Ongoing*
+**C** | *Ongoing*
 
 Integrating various software systems for the Formula SAE car:
 
@@ -201,8 +134,10 @@ Interested in collaborating on a project? I'm always open to:
 - **Mentorship** - Learning from experienced developers
 - **Contributions** - Helping with open source projects
 
-Feel free to reach out via [email](mailto:akashkarthik473@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/akash-karthik)!
+Feel free to reach out via [email](mailto:akashkarthik473@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/akash-karthik473)!
 
 ---
 
-*All project code is available on my [GitHub profile](https://github.com/akashkarthik473). Feel free to explore, fork, and contribute!* 
+*All project code is available on my [GitHub profile](https://github.com/akashkarthik473). Feel free to explore, fork, and contribute!*
+
+</div> 

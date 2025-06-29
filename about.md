@@ -4,6 +4,8 @@ title: About Me
 description: Learn more about Akash Karthik - Computer Science student, coder, and Formula SAE team member
 ---
 
+<div class="about-content">
+
 # About Me 👨‍💻
 
 ## Who I Am
@@ -61,3 +63,5 @@ I'm always excited to connect with fellow students, engineers, and racing enthus
 ---
 
 *Interested in collaborating on a project or learning more about Formula SAE? Let's connect!*
+
+</div>

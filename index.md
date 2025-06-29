@@ -17,13 +17,14 @@ I'm constantly learning and building new projects. From web development to algor
 As part of the software team in Spartan Racing, I'm involved in designing and building the controls software. It's an incredible hands-on  experience that combines mechanical, electrical, and software knowledge.
 
 ## Recent Blog Posts
-
-{% raw %}{% assign recent_posts = site.posts | slice: 0, 3 %}
+<div class="recent-posts">
+{% assign recent_posts = site.posts | slice: 0, 3 %}
 {% for post in recent_posts %}
 ### [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %-d, %Y" }}*
 {{ post.excerpt | strip_html | truncatewords: 30 }}
-{% endfor %}{% endraw %}
+{% endfor %}
+</div>
 
 [View all posts →](/blog/)
 

@@ -432,4 +432,58 @@
   padding: 15px;
   border-radius: 6px;
   border: 1px solid #e1e4e8;
+}
+
+/* Section content wrappers */
+.about-content, .projects-content, .fsae-content, .blog-content {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  padding: 2.5rem 2rem;
+  margin: 2rem auto 2.5rem auto;
+  max-width: 900px;
+}
+
+.recent-posts {
+  margin-bottom: 2rem;
+  padding: 1.5rem 1rem;
+  background: #f6f8fa;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+}
+
+.blog-content h2, .about-content h2, .projects-content h2, .fsae-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.blog-content h3, .about-content h3, .projects-content h3, .fsae-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.blog-content ul, .about-content ul, .projects-content ul, .fsae-content ul {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.blog-content li, .about-content li, .projects-content li, .fsae-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Make sure links are styled consistently */
+.blog-content a, .about-content a, .projects-content a, .fsae-content a {
+  color: #0366d6;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.blog-content a:hover, .about-content a:hover, .projects-content a:hover, .fsae-content a:hover {
+  text-decoration: underline;
+  color: #0053a6;
+}
+
+/* Add a little more space below horizontal rules */
+.blog-content hr, .about-content hr, .projects-content hr, .fsae-content hr {
+  margin: 2rem 0;
 } 

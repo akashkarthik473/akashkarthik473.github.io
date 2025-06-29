@@ -4,6 +4,8 @@ title: Formula SAE / Spartan Racing
 description: My journey with the Spartan Racing Formula SAE team at San Jose State University
 ---
 
+<div class="fsae-content">
+
 # Formula SAE / Spartan Racing 🏎️
 
 Welcome to my Formula SAE journey! As part of the **Spartan Racing team** at San Jose State University, I'm involved in designing, building, and racing a formula-style race car. This page documents our team's progress, challenges, and achievements.
